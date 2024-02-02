@@ -9,7 +9,7 @@
 
 ## **Inktober 2023**
 
-[![Day 1](images/website-redesign.png ':class=banner-tall-image')](ink-day1.md)
+[![Day 1](images/ink-01/ink-01-all.jpg ':class=banner-tall-image')](ink-day1.md)
 🎨 **Inktober Day 1 - DREAM**
 
 [![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)
