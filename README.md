@@ -2,12 +2,15 @@
 
 # ☝🏼 **Design Portfolio**
 
-> 👋 Hi, I’m Mary - a web designer based out of San Francisco.
+> 👋 Hi, I’m Jason Toal an Educational Consultant and Artist. I have been exploring different platforms and techniques for sharing media online. 
 > 
 
 ↓ Click into each project to learn more about its creation, goal and current version.
 
-## **My projects**
+## **Inktober 2023**
+
+[![Day 1](images/website-redesign.png ':class=banner-tall-image')](ink-day1.md)
+🎨 **Inktober Day 1 - DREAM**
 
 [![Website redesign](images/website-redesign.png ':class=banner-tall-image')](website-redesign.md)
 🎨 **Website redesign**
